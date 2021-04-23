@@ -123,40 +123,40 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 - That's it. You just need to change the theme name and the code will take care of everything else.
 
 #Deployment:
-create a new repository on github. 
- Use command on terminal
+create a new repository on github.  <br>
+ Use command on terminal<br> 
  ```
  npm run build
- ```
+ ```  
  it will create a build folder which will contain all deployable project
- 
- then open the folder
+ <br>
+ then open the folder <br>
  ``` cd build```
- then initialize the git because we deleted the older one.
+ then initialize the git because we deleted the older one. <br>
  ```git init ```
- NOTE: Now build is a seprate and new github repo, which we have to deploy to github pages.
- then set remote origin to your repo.
- ``` git remote add origin <your repo link.git>```
- ``` git add . ``` 
- ``` git commit -m "MESSAGE"```
- now we have to simply upload it to our branch
+ NOTE: Now build is a seprate and new github repo, which we have to deploy to github pages.  <br>
+ then set remote origin to your repo. <br>
+ ``` git remote add origin <your repo link.git>``` <br>
+ ``` git add . ``` <br>
+ ``` git commit -m "MESSAGE"```<br>
+ now we have to simply upload it to our branch <br>
  
- ```git push origin master```
- will work,  and just deploy the github page from branch master.
- or you can
- create a new branch and deploy there 
- ``` git checkout -b <new branch name>```
- now deploy using command
- ``` git push origin <new branch name>```
+ ```git push origin master```<br>
+ will work,  and just deploy the github page from branch master.<br>
+ or you can<br>
+ create a new branch and deploy there <br>
+ ``` git checkout -b <new branch name>```<br>
+ now deploy using command<br>
+ ``` git push origin <new branch name>```<br>
  and now you can deploy this branch to github pages.
+ <br>
+ i strongly recommend you to follow https://github.com/ashutosh1919/masterPortfolio READ Me<br>
  
- i strongly recommend you to follow https://github.com/ashutosh1919/masterPortfolio READ Me
- 
- it is just i was struggling with thier steps coz they were not explained maybe the way i do so.
- he has also created a tutorial video which will help you alot https://www.youtube.com/watch?v=IwBS39TOmpA
+ it is just i was struggling with thier steps coz they were not explained maybe the way i do so.<br>
+ he has also created a tutorial video which will help you alot https://www.youtube.com/watch?v=IwBS39TOmpA<br>
  
  
- All credits to original Developers and contributors.
+ All credits to original Developers and contributors.<br>
  Happy Coding!
  
  
