@@ -33,7 +33,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
   - ```python
     npm install
     ```
-    which will install all the dependencies, dont worry if npm gives alot of warnings just run 
+    which will install all the dependencies, dont worry if npm gives alot of warnings just run
     ``` npm audit fix ```
     and we will be good to go
 #Remove git because its not for your account (if deploying to github pages)
@@ -125,10 +125,10 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 
 #Deployment:
 create a new repository on github.  <br>
- Use command on terminal<br> 
+ Use command on terminal<br>
  ```
  npm run build
- ```  
+ ```
  it will create a build folder which will contain all deployable project
  <br>
  then open the folder <br>
@@ -141,7 +141,7 @@ create a new repository on github.  <br>
  ``` git add . ``` <br>
  ``` git commit -m "MESSAGE"```<br>
  now we have to simply upload it to our branch <br>
- 
+
  ```git push origin master```<br>
  will work,  and just deploy the github page from branch master.<br>
  or you can<br>
@@ -152,13 +152,10 @@ create a new repository on github.  <br>
  and now you can deploy this branch to github pages.
  <br>
  i strongly recommend you to follow https://github.com/ashutosh1919/masterPortfolio READ Me<br>
- 
+
  it is just i was struggling with thier steps coz they were not explained maybe the way i do so.<br>
  he has also created a tutorial video which will help you alot https://www.youtube.com/watch?v=IwBS39TOmpA<br>
- 
- 
+
+
  All credits to original Developers and contributors.<br>
  Happy Coding!
- 
- 
- 
