@@ -1,6 +1,7 @@
 Base code was taken from https://github.com/ashutosh1919/masterPortfolio on 4/23/2021.
 
-#Branch Deployed:
+
+# Branch Deployed:
 Master Branch is currently deploted at mriceflame.co
 #make your own:
 i faced alot of issues with building this projects mainly because i was newbi to react.
